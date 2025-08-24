@@ -1,5 +1,5 @@
 
-## 📁 Practical 4 – JPEG & Arithmetic Coding
+## 📁 Experiment 4 – JPEG & Arithmetic Coding
 
 This practical focuses on **lossy and entropy-based compression techniques** using:
 
